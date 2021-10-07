@@ -11,7 +11,7 @@ If you need to compile the app before installation, follow these instructions.
 Install dependencies with yarn.
 
 ```bash
-$ cd deco-electron-react-master
+$ cd electron-react-master
 $ yarn
 ```
 
