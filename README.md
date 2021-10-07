@@ -57,6 +57,6 @@ Package for Raspberry Pi:
 $ yarn package-rpi
 ```
 
-## Credit
+## References
 
 - [Electron-React Boilerplate Repo](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - All this work is based on infrastructure from their repo
