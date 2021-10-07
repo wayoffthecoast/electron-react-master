@@ -1,5 +1,5 @@
 ## About
-A desktop app based on electron-react-boilerplate
+A desktop app based on electron-react-boilerplate. See below for instructions on how to package for Raspberry Pi 3
 
 ## Install
 - **If you have installation or compilation issues with this project, please see [the debugging guide](https://github.com/chentsulin/electron-react-boilerplate/issues/400)**
