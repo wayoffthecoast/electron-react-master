@@ -1,0 +1,11 @@
+{
+  "HOME": "/",
+  "COUNTER": "/counter",
+  "SETUP": "/setup",
+  "CALMENU": "/calibrationsmenu",
+  "DENSITYCALIBRATIONS": "/densitycalibrate",
+  "TEMPCALIBRATIONS": "/tempcalibrate",
+  "GRAPHING": "/graph",
+  "EXPTMANAGER": "/exptmanager",
+  "EDITOR": "/scripteditor"
+}
